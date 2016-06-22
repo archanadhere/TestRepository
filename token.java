@@ -5,6 +5,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
+
 class token
 {
         public static void main(String args[]) throws IOException
